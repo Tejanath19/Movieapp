@@ -1,0 +1,10 @@
+.bar
+{
+	background: blue;
+}
+.bar,a
+{
+	color: white;
+	padding-left: 20px;
+
+}
